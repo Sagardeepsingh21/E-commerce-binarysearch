@@ -24,8 +24,7 @@ Search Algorithm: Binary Search (custom implementation)
 State Management: React State (can be extended with Context/Redux)
 
 📁 Folder Structure
-bash
-Copy
+
 Edit
 /src
 │
