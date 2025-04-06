@@ -43,6 +43,8 @@ Edit
 │   └── products.ts           # Static product data (can be replaced with API)
 │
 └── App.tsx                   # Main app entry point
+
+
 🧠 How Binary Search is Used
 The product list is sorted alphabetically (or by a selected field), and the BinarySearch.ts utility performs a fast lookup to find matching products based on user queries. This dramatically improves performance, especially for large product datasets.
 
