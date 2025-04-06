@@ -6,7 +6,7 @@ This project is a modern, responsive E-Commerce website built with React, TypeSc
 
 🧠 TypeScript-powered for safer, scalable code
 
-💅 Tailwind CSS + ShadCN UI for responsive, modern design
+💅 Tailwind CSS + ShadCN UI for responsive, modern design 
 
 📦 Product Listing with dynamic filtering and sorting
 
